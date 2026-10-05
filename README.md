@@ -46,3 +46,8 @@ The best solution found by the algorithm reached the goal without invalid moves.
 3. The grid and obstacles are generated using the specified seed.
 4. The PSO algorithm searches for a path.
 5. The final path and its cost are displayed using Matplotlib.
+## Final Output
+
+The PSO algorithm successfully found a path from the start point to the goal point.
+
+The final solution reached the goal at (13, 17) with 0 invalid moves. The resulting path contains 51 positions.
